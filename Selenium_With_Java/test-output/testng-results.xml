@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-05T18:11:42 IST" name="Testing" finished-at="2026-02-05T18:11:42 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2026-02-05T18:11:42 IST" name="Regression" finished-at="2026-02-05T18:11:42 IST" duration-ms="86">
+      <class name="workingWithTestNG.Test1">
+        <test-method signature="testCase2()[pri:0, instance:workingWithTestNG.Test1@765d7657]" started-at="2026-02-05T18:11:42 IST" name="testCase2" finished-at="2026-02-05T18:11:42 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+      </class> <!-- workingWithTestNG.Test1 -->
+      <class name="workingWithTestNG.Test2">
+        <test-method is-config="true" signature="addToCart()[pri:0, instance:workingWithTestNG.Test2@185a6e9]" started-at="2026-02-05T18:11:42 IST" name="addToCart" finished-at="2026-02-05T18:11:42 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="createAcc()[pri:0, instance:workingWithTestNG.Test2@185a6e9]" started-at="2026-02-05T18:11:42 IST" name="createAcc" finished-at="2026-02-05T18:11:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAcc -->
+        <test-method is-config="true" signature="move()[pri:0, instance:workingWithTestNG.Test2@185a6e9]" started-at="2026-02-05T18:11:42 IST" name="move" finished-at="2026-02-05T18:11:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- move -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:workingWithTestNG.Test2@185a6e9]" started-at="2026-02-05T18:11:42 IST" name="logOut" finished-at="2026-02-05T18:11:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method signature="login(java.lang.String)[pri:0, instance:workingWithTestNG.Test2@185a6e9]" started-at="2026-02-05T18:11:42 IST" name="login" finished-at="2026-02-05T18:11:42 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.facebook.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="buttonCLick()[pri:0, instance:workingWithTestNG.Test2@185a6e9]" started-at="2026-02-05T18:11:42 IST" name="buttonCLick" finished-at="2026-02-05T18:11:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonCLick -->
+        <test-method is-config="true" signature="moveTo()[pri:0, instance:workingWithTestNG.Test2@185a6e9]" started-at="2026-02-05T18:11:42 IST" name="moveTo" finished-at="2026-02-05T18:11:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveTo -->
+        <test-method is-config="true" signature="signUp()[pri:0, instance:workingWithTestNG.Test2@185a6e9]" started-at="2026-02-05T18:11:42 IST" name="signUp" finished-at="2026-02-05T18:11:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method is-config="true" signature="add()[pri:0, instance:workingWithTestNG.Test2@185a6e9]" started-at="2026-02-05T18:11:42 IST" name="add" finished-at="2026-02-05T18:11:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- workingWithTestNG.Test2 -->
+    </test> <!-- Regression -->
+  </suite> <!-- Testing -->
+</testng-results>
